@@ -4,7 +4,7 @@
 
 A stack is a simple data structure that adds and removes elements in a particular order. Every time an element is added, it goes on the "top" of the stack. Only an element at the top of the stack can be removed, just like a stack of plates. This behavior is called LIFO (Last In, First Out).
 
-<div style="text-align:center"><img src="link_to_stack_image" alt="Stack" /></div>
+<div align=center><img src="https://github.com/khethan123/DSA/blob/main/stack.jpg" alt="Stack" /></div>
 
 ### Terminology
 
@@ -22,7 +22,7 @@ Stacks can be used to create undo-redo functionalities, parsing expressions (inf
 
 A queue is similar to a stack, but defines a different way to add and remove elements. The elements are inserted from one end, called the rear, and deleted from the other end, called the front. This behavior is called FIFO (First in First Out).
 
-<div style="text-align:center"><img src="link_to_linked_list_image" alt="Queue" /></div>
+<p align=center><img src="https://github.com/khethan123/DSA/blob/main/queue.jpg" alt="Queue" /></p>
 
 ### Terminology
 
@@ -40,7 +40,7 @@ Queues are used whenever we need to manage objects in order starting with the fi
 
 A linked list is a sequence of nodes where each node stores its own data and a link to the next node. One node links to another forming what can be thought of as a linked chain:
 
-<div style="text-align:center"><img src="link_to_linked_list_image" alt="Linked List" /></div>
+<p align=center><img src="https://github.com/khethan123/DSA/blob/main/linked%20list.jpg" alt="Linked List" /></p>
 
 The first node is called the head, and it's used as the starting point for any iteration through the list. The last node must have its link pointing to None to determine the end of the list.
 
@@ -59,7 +59,7 @@ Graphs are used to represent many real-life applications like networks, transpor
 
 A graph is a set of connected nodes where each node is called a Vertex and the connection between two of them is called an Edge.
 
-<div style="text-align:center"><img src="link_to_graph_image" alt="Graph" /></div>
+<p align=center><img src="https://github.com/khethan123/DSA/blob/main/graphs.jpg" alt="Graph" /></p>
 
 This can represent, for example, connections on a social network, where each Vertex represents a person and the Edges represent connections.
 
